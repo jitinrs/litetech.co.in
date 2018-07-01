@@ -1,0 +1,31 @@
+To add spacing between menu items:
+https://stackoverflow.com/questions/20079782/changing-the-space-between-each-item-in-bootstrap-navbar
+
+To make Card Deck Responsive:
+https://stackoverflow.com/questions/36430816/bootstrap-4-card-deck-with-number-of-columns-based-on-viewport?rq=1
+https://www.codeply.com/go/nIB6oSbv6q
+
+
+
+Theme Ideas:
+https://themewagon.com/themes/responsive-one-page-bootstrap-template/
+
+Aura in Footer section: https://codepen.io/amyth91/pen/BIbCo
+
+EXPLORE SPACE
+https://codepen.io/jasperlachance/pen/QNMwBg
+
+50 Best Creative CSS3 Animation Examples in 2018
+https://dcrazed.net/css3-animation-examples/
+
+https://stackoverflow.com/questions/36585661/how-do-i-alternate-between-two-color-animations-infinitely
+https://codepen.io/metagrapher/pen/tgcLl
+https://trentwalton.com/2010/03/22/css3-in-transition/
+https://mdbootstrap.com/javascript/carousel/
+
+54 CSS Headers and Footers
+http://freefrontend.com/css-headers-footers/
+
+Best CSS responsive Grid
+https://css-tricks.com/seamless-responsive-photo-grid/
+https://stackoverflow.com/questions/4669771/images-side-by-side-without-any-space-between-them
