@@ -29,3 +29,8 @@ http://freefrontend.com/css-headers-footers/
 Best CSS responsive Grid
 https://css-tricks.com/seamless-responsive-photo-grid/
 https://stackoverflow.com/questions/4669771/images-side-by-side-without-any-space-between-them
+
+
+Bootstrap Carousel not sliding:
+https://forum.freecodecamp.org/t/bootstrap-carousel-isnt-sliding-portfolio-project/113643
+Solution:     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
